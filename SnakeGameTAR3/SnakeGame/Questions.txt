@@ -1,0 +1,12 @@
+Collect number that his unit digit is x
+Collect the result of x+y
+Collect number that the result x/number is the number 
+Collect number that has x odd digits and y even digits
+Collect the right missing number: _+x-y=1
+Collect prime number that is between [x,y]
+Collect number that is multiple of x and not of y
+Collect number that his unit digit is x
+Collect the result of x+y
+Collect number that the result x/number is the number 
+Collect number that has x odd digits and y even digits
+

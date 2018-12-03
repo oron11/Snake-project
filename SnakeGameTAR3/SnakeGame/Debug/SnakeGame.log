@@ -1,0 +1,4 @@
+﻿  Replay.cpp
+c:\users\user\documents\visual studio 2015\projects\snakegame\snakegametar3\snakegame\replay.cpp(200): warning C4018: '<': signed/unsigned mismatch
+  SnakeGame.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\SnakeGame\SnakeGameTAR3\Debug\SnakeGame.exe
+  SnakeGame.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\SnakeGame\SnakeGameTAR3\Debug\SnakeGame.pdb (Full PDB)
